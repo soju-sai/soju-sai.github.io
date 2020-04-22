@@ -10,6 +10,12 @@ Besides, I am familiar with Linux system, web-building AWS services, and launchi
 To accumalate project management, cloud service, and new techque using experience. By combining new technology and cloud service, I could create high quality and performance services. Especially big data and data-mining fields are where I would like to explore currently. I am always enthuthiatic to marketing science, and would like to use data analysis to maximize the efficiency of marketing.
 
 ### EDUCATION
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
  Virginia Commonwealth University                            |    Richmond, VA, USA 
 -------------------------------------------------------------|---------------------:
  Master of Science - Global Marketing Management             |  Aug 2009 – May 2011 
