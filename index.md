@@ -10,18 +10,19 @@ Besides, I am familiar with Linux system, web-building AWS services, and launchi
 To accumalate project management, cloud service, and new techque using experience. By combining new technology and cloud service, I could create high quality and performance services. Especially big data and data-mining fields are where I would like to explore currently. I am always enthuthiatic to marketing science, and would like to use data analysis to maximize the efficiency of marketing.
 
 ### EDUCATION
-| Virginia Commonwealth University                            |    Richmond, VA, USA |
-|-------------------------------------------------------------|---------------------:|
-| Master of Science - Global Marketing Management             |  Aug 2009 – May 2011 |
-| Computer Science - One-year program                         | Aug 2008 – July 2009 |
-|                                                             |                      |
-| Tamkang University                                          |       TAIPEI, TAIWAN |
-| Bachelor of Business Administration –Information Management | Sep 2002 – June 2006 |
+ Virginia Commonwealth University                            |    Richmond, VA, USA 
+-------------------------------------------------------------|---------------------:
+ Master of Science - Global Marketing Management             |  Aug 2009 – May 2011 
+ Computer Science - One-year program                         | Aug 2008 – July 2009 
+
+ Tamkang University                                          |       TAIPEI, TAIWAN 
+ ------------------------------------------------------------|---------------------:
+ Bachelor of Business Administration –Information Management | Sep 2002 – June 2006 
 
 ### PROFESSIONAL EXPERIENCE
-| 株式会社ノベルワークス |         OSAKA, JAPAN |
-|------------------------|---------------------:|
-| Engineer (8 months)    | June 2019 – Jan 2020 |
+ 株式会社ノベルワークス |         OSAKA, JAPAN 
+------------------------|---------------------:
+ Engineer (8 months)    | June 2019 – Jan 2020 
 - Project management - visiting clients, requirement evaluation, schedule management, and etc.
 - In-house technical consultant.
 - Developed and maintained services.
@@ -29,24 +30,24 @@ To accumalate project management, cloud service, and new techque using experienc
 - Took care of in-house infrastructure with AWS services. Such as resolving security issues of official website, SSL/TLS certificate renewal, and etc.
 - Responsible for Taiwan market branding, such as holding seminar for product promotion, digital marketing.
 
-| 株式会社クックビズ |         OSAKA, JAPAN |
-|--------------------|---------------------:|
-| Engineer (1 year)  | June 2018 – May 2019 |
+ 株式会社クックビズ |         OSAKA, JAPAN 
+--------------------|---------------------:
+ Engineer (1 year)  | June 2018 – May 2019 
 - Developed and maintained in-house web services.
 - Supported infrastructure and managed in-house AWS services.
 - Agile style developing with other members. (Release once in 2 weeks. Git flow management.)
 - Primary developed backend and minor support frontend.
 
-| 株式会社ラジカルオプティ     |         OSAKA, JAPAN |
-|------------------------------|---------------------:|
-| Engineer (2 years 10 months) | July 2015 – Apr 2018 |
+ 株式会社ラジカルオプティ     |         OSAKA, JAPAN 
+------------------------------|---------------------:
+ Engineer (2 years 10 months) | July 2015 – Apr 2018 
 - Project management - requirement evaluation, system design, schedule management, and etc.
 - Set up infrastructure for projects.
 - Developed online hair-salon reservation services, ec-sites, a online talent platform for fashion industry.
 
-| EasyUse Digital Technology          |      TAIPEI, TAIWAN |
-|-------------------------------------|--------------------:|
-| Project Engineer (2 years 6 months) | May 2012 – Oct 2014 |
+ EasyUse Digital Technology          |      TAIPEI, TAIWAN 
+-------------------------------------|--------------------:
+ Project Engineer (2 years 6 months) | May 2012 – Oct 2014 
 - Followed the typical software development process as a web developer – requirement evaluation, design, implement, testing, release and maintain.
 - Developed window services, web pages with C#, ASP.NET.
 - Provided on-call service to install system and fix problems in person.
