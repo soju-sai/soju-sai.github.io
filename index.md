@@ -11,24 +11,21 @@ To accumalate project management, cloud service, and new techque using experienc
 
 ### EDUCATION
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+ Virginia Commonwealth University|Richmond, VA, USA
+------------------|---------------------
+ Master of Science - Global Marketing Management|Aug 2009 – May 2011 
+ Computer Science - One-year program|Aug 2008 – July 2009 
 
- Virginia Commonwealth University                            |    Richmond, VA, USA 
--------------------------------------------------------------|---------------------:
- Master of Science - Global Marketing Management             |  Aug 2009 – May 2011 
- Computer Science - One-year program                         | Aug 2008 – July 2009 
-
- Tamkang University                                          |       TAIPEI, TAIWAN 
- ------------------------------------------------------------|---------------------:
- Bachelor of Business Administration –Information Management | Sep 2002 – June 2006 
+ Tamkang University|TAIPEI, TAIWAN 
+------------------|---------------------
+ Bachelor of Business Administration –Information Management|Sep 2002 – June 2006 
 
 ### PROFESSIONAL EXPERIENCE
- 株式会社ノベルワークス |         OSAKA, JAPAN 
-------------------------|---------------------:
- Engineer (8 months)    | June 2019 – Jan 2020 
+
+株式会社ノベルワークス|OSAKA, JAPAN 
+------------------|---------------------
+ Engineer (8 months)|June 2019 – Jan 2020 
+ 
 - Project management - visiting clients, requirement evaluation, schedule management, and etc.
 - In-house technical consultant.
 - Developed and maintained services.
