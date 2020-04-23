@@ -1,6 +1,6 @@
 ## Welcome to Rufus Sai's Home
 
-### Brief
+### BRIEF
 
 7 years in IT industry, an experienced Web Engineer who also managed projects, had a five years working experience in Osaka, Japan. Joined ec-site, salon reservation, talent platform project, and etc. Not only developed web services, but also supported projects. Communication, requirement confirmation, design and planning, testing, and deploying are part of my jobs as well. I had led Japan Basketball League ec-site project as a project leader. Also held seminar to promote and share techque information in Taiwan while work for a Osaka company.
 Besides, I am familiar with Linux system, web-building AWS services, and launching virtual environment such as docker. My coding languages are basically PHP and JavaScript.
@@ -11,10 +11,10 @@ To accumalate project management, cloud service, and new techque using experienc
 
 ### EDUCATION
 
- Virginia Commonwealth University|Richmond, VA, USA
-------------------|---------------------
- Master of Science - Global Marketing Management|Aug 2009 – May 2011 
- Computer Science - One-year program|Aug 2008 – July 2009 
+| Virginia Commonwealth University|Richmond, VA, USA|
+| :---           |          ---: |
+| Master of Science - Global Marketing Management | Aug 2009 – May 2011 |
+| Computer Science - One-year program | Aug 2008 – July 2009 |
 
  Tamkang University|TAIPEI, TAIWAN 
 ------------------|---------------------
@@ -59,12 +59,12 @@ To accumalate project management, cloud service, and new techque using experienc
 - Provided on-call service to install system and fix problems in person.
 - Provided consultation service to the clients.
 
-***TECHNICAL SKILLS***
+### TECHNICAL SKILLS
 - Proficient in PHP (4.5 years), C# (2.5 years), JavaScript & JQuery (2 years), SQL Language (3years)
 - Prior experienced but rusty: Java (1 year), C++ (6 months), ASP.NET (6 months), Python (6 months), MongoDB (6 months), SPSS (6 months)
 - Infrastructure skills: AWS server build (VPC, EC2, Route53, etc), Linux server management.
 - Others: git version control, VM Ware (Vagrant), Docker
 
-***LANGUAGES***
+### LANGUAGES
 - Proficient in English (TOEIC 750, 2005/10)
 - Proficient in Japanese (JLPL N1, 2018/07)
