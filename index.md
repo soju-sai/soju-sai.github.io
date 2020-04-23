@@ -34,23 +34,26 @@ To accumalate project management, cloud service, and new techque using experienc
 - Responsible for Taiwan market branding, such as holding seminar for product promotion, digital marketing.
 
  株式会社クックビズ |         OSAKA, JAPAN 
---------------------|---------------------:
- Engineer (1 year)  | June 2018 – May 2019 
+--------------------|---------------------
+ Engineer (1 year)  | June 2018 – May 2019
+
 - Developed and maintained in-house web services.
 - Supported infrastructure and managed in-house AWS services.
 - Agile style developing with other members. (Release once in 2 weeks. Git flow management.)
 - Primary developed backend and minor support frontend.
 
  株式会社ラジカルオプティ     |         OSAKA, JAPAN 
-------------------------------|---------------------:
- Engineer (2 years 10 months) | July 2015 – Apr 2018 
+------------------------------|---------------------
+ Engineer (2 years 10 months) | July 2015 – Apr 2018
+ 
 - Project management - requirement evaluation, system design, schedule management, and etc.
 - Set up infrastructure for projects.
 - Developed online hair-salon reservation services, ec-sites, a online talent platform for fashion industry.
 
  EasyUse Digital Technology          |      TAIPEI, TAIWAN 
--------------------------------------|--------------------:
- Project Engineer (2 years 6 months) | May 2012 – Oct 2014 
+-------------------------------------|--------------------
+ Project Engineer (2 years 6 months) | May 2012 – Oct 2014
+ 
 - Followed the typical software development process as a web developer – requirement evaluation, design, implement, testing, release and maintain.
 - Developed window services, web pages with C#, ASP.NET.
 - Provided on-call service to install system and fix problems in person.
