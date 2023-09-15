@@ -120,3 +120,5 @@ Experienced software engineer passionate about developing clean, reusable, and h
 - Participating in technical and agile management events
 - IoT
 - Culinary
+- Guitar
+- Snowboarding
