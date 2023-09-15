@@ -1,6 +1,6 @@
 # Rufus Tsai
 <a href="mailto:kiraarus@gmail.com">
-  <img src="https://img.shields.io/badge/kiraarus@gmail.com--grey.svg?&logo=gmail" />
+  <img src="https://img.shields.io/badge/kiraarus@gmail.com-grey.svg?&logo=gmail" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rufus-tsai-27b4174b" target="_blank">
   <img src="https://img.shields.io/badge/rufus_tsai-blue.svg?&logo=linkedin" />
