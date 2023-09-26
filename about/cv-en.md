@@ -12,15 +12,6 @@
 ## Introduction
 Experienced software engineer passionate about developing clean, reusable, and highly scalable software solutions. Skilled in backend web development, cloud services, and agile development. Strong team leadership and communication skills. Proficient in business-level English and Japanese.
 
-## Education
-### Master of Marketing
-**Virginia Commonwealth University**, Virginia, U.S.A. 
-*Graduation: May 2011*
-
-### Bachelor of Information Management
-**Tamkang University**, Taipei City, Taiwan
-*Graduation: May 2006*
-
 ## Work Experience
 ### Project Manager / Software Engineer - Access Taiwan Lab Software Development, Taipei City
 *August 2022 - August 2023*
@@ -76,6 +67,15 @@ Experienced software engineer passionate about developing clean, reusable, and h
 - Developed bill or marketing advertisement layouts using HTML and ASP.NET.
 - Main responsibilities included evaluating development schedules, product development, client system online services, and ongoing maintenance.
 - Languages used: C# (2.5 years), ASP.NET (1 year).
+
+## Education
+### Master of Marketing
+**Virginia Commonwealth University**, Virginia, U.S.A. 
+*Graduation: May 2011*
+
+### Bachelor of Information Management
+**Tamkang University**, Taipei City, Taiwan
+*Graduation: May 2006*
 
 ## Skills
 - Backend Languages:
