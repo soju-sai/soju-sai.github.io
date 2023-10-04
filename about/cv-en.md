@@ -105,9 +105,10 @@ Experienced software engineer passionate about developing clean, reusable, and h
 - Established AWS CodePipeline CI/CD for continuous integration and deployment.
 - Integrated OAuth2.0 PKCE for Twitter OAuth2.0 authentication.
 
-### Failure Report System
+### <a href="https://atom-cms.s3-ap-northeast-1.amazonaws.com/Atom+Mt+Flow-Atom.pdf" target="_blank">Failure Report System</a>
+- A web page for providing product failure report.
 - Developed using Python and Vue.js.
-- Frontend hosted on AWS S3 as a static web form.
+- Frontend hosted on AWS S3 as a static web form with Vue.js.
 - Backend using serverless AWS API Gateway & AWS Lambda.
 - Integrated with third-party service kintone for data storage.
 
