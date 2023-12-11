@@ -19,7 +19,7 @@
 - 設計和開發RESTful API，撰寫測試碼。
 - 導入AWS CodePipeline，實施CI/CD自動化測試和持續整合，降低維運成本，並提升系統穩定度。
 - 維護產品伺服器，各種狀況排除。
-- 使用語言：TypeScript & Node.js（1 year）、Ruby（Rails，3 Months）、Golang（1 Month）、Shell Script（3 Months）。
+- 使用語言：Golang、Ruby on Rails、TypeScript & Node.js、Shell Script。
 
 *2020年12月 - 2022年7月*
 - 需求彙整，建立專案計畫，成本控管，人力資源協調，開發規格確認，文件撰寫，風險管理。
@@ -33,7 +33,7 @@
 - 重構資料庫架構及資料。
 - 協助現有系統問題排除、架設基礎建設。
 - 提供資安及軟體開發解決方案。
-- 使用語言：PHP Laravel（6 Months）、Vue.js（1 Month）、JavaScript（2 Month）。
+- 使用語言：PHP Laravel、Vue.js、JavaScript。
 
 ### 資深工程師 - ノベルワークス Novelworks，日本大阪
 *2019年6月 - 2020年1月*
@@ -42,14 +42,14 @@
 - 提供資安及軟體開發解決方案。
 - OAuth2.0認證研究導入，更新網站憑證，管理AWS服務等等。 
 - 主辦產品推廣講座。
-- 使用語言：Node.js（6 Month）。
+- 使用語言：Node.js。
 
 ### 後端工程師 - クックビズ Cookbiz，日本大阪
 *2018年6月 - 2019年5月*
 - 開發產品新功能。
 - 參與Scrum開發流程及產品迭代。
 - 管理產品基礎設施，以Docker及Vagrant建立開發及測試環境。
-- 使用語言：PHP（自有框架、CakePHP、Yii，1 year）。
+- 使用語言：PHP（自有框架、CakePHP、Yii）。
 
 ### 工程師 - ラジカルオプティ Radical-Opti，日本大阪
 *2015年7月 - 2018年4月*
@@ -58,7 +58,7 @@
 - 全端開發小規模網站。
 - Vagrant管理開發環境。 
 - 撰寫Shell-Script小工具。
-- 使用語言：PHP（CakePHP，2 year），JavaScript（1 year），HTML及CSS。
+- 使用語言：PHP（CakePHP），JavaScript，HTML及CSS。
 
 ### 專案工程師 - 繹宇數位科技，台北市
 *2012年5月 - 2014年10月*
@@ -66,7 +66,7 @@
 - 撰寫Windows services, 排程, exe執行檔等。
 - 以HTML及ASP.NET開發帳單或行銷廣告版面。 
 - 評估開發時程，產品開發，客戶端系統上線服務，後續維護等等為主要工作內容。
-- 使用語言：C#（2.5 years），ASP.NET（1 years）。
+- 使用語言：C#，ASP.NET。
 
 ## 學歷
 ### 行銷碩士學位
@@ -79,19 +79,16 @@
 
 ## 技能
 - 後端語言:
-  - 【★★★★☆】PHP (Laravel)
-  - 【★★★☆☆】JavaScript (Node.js, TypeScript)
-  - 【★★★☆☆】Shell Script
-  - 【★★★☆☆】Ruby (Ruby on Rails)
-  - 【★★☆☆☆】Python
-  - 【★★☆☆☆】Golang
+  - Golang
+  - Python
+  - Ruby (Ruby on Rails)
+  - PHP (Laravel)
+  - JavaScript (Node.js, TypeScript)
+  - Shell Script
 - 前端開發:
-  - 【★★★☆☆】HTML
-  - 【★★☆☆☆】CSS (SCSS)
+  - HTML、CSS (SCSS)
 - 資料庫管理: 
-  - 【★★★★☆】MySQL
-  - 【★★★☆☆】PostgreSQL
-  - 【★★☆☆☆】MongoDB
+  - PostgreSQL、MySQL、MongoDB
 - 版本控制: Git，GitHub
 - 雲端服務: AWS
 - 敏捷開發

@@ -19,7 +19,7 @@ Experienced software engineer passionate about developing clean, reusable, and h
 - Designed and developed RESTful APIs and wrote test code.
 - Implemented AWS CodePipeline for automated CI/CD testing and continuous integration, reducing operational costs and improving system stability.
 - Maintained product servers and troubleshooted various issues.
-- Languages used: TypeScript & Node.js (1 year), Ruby (Rails, 3 months), Golang (1 month), Shell Script (3 months).
+- Languages used: TypeScript & Node.js, Ruby (Rails), Golang, Shell Script.
 
 *December 2020 - July 2022*
 - Gathered requirements, created project plans, managed costs, coordinated human resources, confirmed development specifications, wrote documentation, and managed risks.
@@ -33,7 +33,7 @@ Experienced software engineer passionate about developing clean, reusable, and h
 - Refactored database architecture and data.
 - Assisted in troubleshooting existing system issues and setting up infrastructure.
 - Provided cybersecurity and software development solutions.
-- Languages used: PHP Laravel (6 months), Vue.js (1 month), JavaScript (2 months).
+- Languages used: PHP Laravel, Vue.js, JavaScript.
 
 ### Senior Engineer - Novelworks, Osaka, Japan
 *June 2019 - January 2020*
@@ -42,14 +42,14 @@ Experienced software engineer passionate about developing clean, reusable, and h
 - Provided cybersecurity and software development solutions.
 - Researched and implemented OAuth2.0 authentication, updated website certificates, and managed AWS services, among other tasks.
 - Organized product promotion seminars.
-- Language used: Node.js (6 months).
+- Language used: Node.js.
 
 ### Backend Engineer - Cookbiz, Osaka, Japan
 *June 2018 - May 2019*
 - Developed new features for products.
 - Participated in Scrum development processes and product iterations.
 - Managed product infrastructure, created development and testing environments using Docker and Vagrant.
-- Languages used: PHP (proprietary framework, CakePHP, Yii, 1 year).
+- Languages used: PHP (proprietary framework, CakePHP, Yii).
 
 ### Engineer - Radical-Opti, Osaka, Japan
 *July 2015 - April 2018*
@@ -58,7 +58,7 @@ Experienced software engineer passionate about developing clean, reusable, and h
 - Full-stack development for small-scale websites.
 - Managed development environments using Vagrant.
 - Wrote Shell-Script utilities.
-- Languages used: PHP (CakePHP, 2 years), JavaScript (1 year), HTML, and CSS.
+- Languages used: PHP (CakePHP), JavaScript, HTML, and CSS.
 
 ### Project Engineer - EasyUse Digital Technology, Taipei City
 *May 2012 - October 2014*
@@ -66,7 +66,7 @@ Experienced software engineer passionate about developing clean, reusable, and h
 - Wrote Windows services, scheduled tasks, executable files, etc.
 - Developed bill or marketing advertisement layouts using HTML and ASP.NET.
 - Main responsibilities included evaluating development schedules, product development, client system online services, and ongoing maintenance.
-- Languages used: C# (2.5 years), ASP.NET (1 year).
+- Languages used: C#, ASP.NET.
 
 ## Education
 ### Master of Marketing
@@ -79,19 +79,16 @@ Experienced software engineer passionate about developing clean, reusable, and h
 
 ## Skills
 - Backend Languages:
-  - 【★★★★☆】PHP (Laravel)
-  - 【★★★☆☆】JavaScript (Node.js, TypeScript)
-  - 【★★★☆☆】Shell Script
-  - 【★★★☆☆】Ruby (Ruby on Rails)
-  - 【★★☆☆☆】Python
-  - 【★★☆☆☆】Golang
+  - Golang
+  - Python
+  - Ruby (Ruby on Rails)
+  - PHP (Laravel)
+  - JavaScript (Node.js, TypeScript)
+  - Shell Script
 - Frontend Development:
-  - 【★★★☆☆】HTML
-  - 【★★☆☆☆】CSS (SCSS)
+  - HTML、CSS (SCSS)
 - Database Management:
-  - 【★★★★☆】MySQL
-  - 【★★★☆☆】PostgreSQL
-  - 【★★☆☆☆】MongoDB
+  - PostgreSQL、MySQL、MongoDB
 - Version Control: Git, GitHub
 - Cloud Services: AWS
 - Agile Development
