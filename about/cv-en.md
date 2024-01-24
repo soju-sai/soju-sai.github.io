@@ -13,7 +13,7 @@
 Experienced software engineer passionate about developing clean, reusable, and highly scalable software solutions. Skilled in backend web development, cloud services, and agile development. Strong team leadership and communication skills. Proficient in business-level English and Japanese.
 
 ## Work Experience
-### Project Manager / Software Engineer - Access Taiwan Lab Software Development, Taipei City
+### Software Engineer - Access Taiwan Lab Software Development, Taipei City
 *August 2022 - August 2023*
 - Designed system architectures for multiple projects and developed new features.
 - Designed and developed RESTful APIs and wrote test code.
@@ -21,6 +21,7 @@ Experienced software engineer passionate about developing clean, reusable, and h
 - Maintained product servers and troubleshooted various issues.
 - Languages used: TypeScript & Node.js, Ruby (Rails), Golang, Shell Script.
 
+### Project Manager - Access Taiwan Lab Software Development, Taipei City
 *December 2020 - July 2022*
 - Gathered requirements, created project plans, managed costs, coordinated human resources, confirmed development specifications, wrote documentation, and managed risks.
 - Led teams (up to 15 people), tracked progress, addressed team member obstacles, handled project crises, and ensured on-time delivery.
@@ -86,7 +87,7 @@ Experienced software engineer passionate about developing clean, reusable, and h
   - JavaScript (Node.js, TypeScript)
   - Shell Script
 - Frontend Development:
-  - HTML、CSS (SCSS)
+  - HTML、CSS (SCSS)、Vue.js
 - Database Management:
   - PostgreSQL、MySQL、MongoDB
 - Version Control: Git, GitHub
@@ -96,6 +97,12 @@ Experienced software engineer passionate about developing clean, reusable, and h
 - Business-Level English and Japanese
 
 ## Projects
+
+### Simple Bank
+- A simple banking system developed using Golang and PostgreSQL, allowing account creation, fund transfers.
+- The project utilizes Gin framework to develop RESTful APIs and implements Object-Relational Mapping(ORM) through the use of the sqlc command-line tool.
+- GitHub Actions are employed for Continuous Integration (CI), enabling automatic test execution.
+
 ### Smartwatch System Backend
 - Developed new features using TypeScript and Node.js.
 - Designed and developed API integration with Firebase Cloud Messaging for push notifications.

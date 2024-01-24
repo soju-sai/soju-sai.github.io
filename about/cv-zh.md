@@ -13,7 +13,7 @@
 經驗豐富的軟體工程師，熱衷於開發簡潔、可重複利用、擴展性高的軟體解決方案。具有後端網站開發、雲端服務和敏捷開發的技能。有優秀的團隊領導及溝通能力。具備商業級的英語、日語能力。
 
 ## 工作經驗
-### 專案經理/軟體工程師 - 愛可信台灣軟體研發，台北市
+### 軟體工程師 - 愛可信台灣軟體研發，台北市
 *2022年8月 - 2023年8月*
 - 為多個專案設計系統架構，開發新功能。
 - 設計和開發RESTful API，撰寫測試碼。
@@ -21,6 +21,7 @@
 - 維護產品伺服器，各種狀況排除。
 - 使用語言：Golang、Ruby on Rails、TypeScript & Node.js、Shell Script。
 
+### 專案經理 - 愛可信台灣軟體研發，台北市
 *2020年12月 - 2022年7月*
 - 需求彙整，建立專案計畫，成本控管，人力資源協調，開發規格確認，文件撰寫，風險管理。
 - 領導團隊（最多15人），追蹤進度，排除成員障礙，處理專案危機，確保即時交付。
@@ -86,7 +87,7 @@
   - JavaScript (Node.js, TypeScript)
   - Shell Script
 - 前端開發:
-  - HTML、CSS (SCSS)
+  - HTML、CSS (SCSS)、Vue.js
 - 資料庫管理: 
   - PostgreSQL、MySQL、MongoDB
 - 版本控制: Git，GitHub
@@ -96,11 +97,10 @@
 - 商業等級的英文及日文能力
 
 ## 專案
-### 智慧手錶後端系統
-- 使用TypeScript，Node.js開發新功能。
-- 設計開發API串接Firebase Cloud Messaging推播功能。
-- 建立AWS CodePipeline CI/CD，達成產品持續整合及部署。
-- 串接OAuth2.0 PKCE，提供Twitter的OAuth2.0驗證。
+### <a href="https://github.com/soju-sai/simplebank" target="_blank">Simple Bank</a>
+- 使用Golang、PostgreSQL開發的簡易銀行功能，可以開戶、轉帳。
+- 採用Gin框架開發restful api、以sqlc指令工具實現ORM。
+- 使用GitHub actions來實現CI，自動執行測試。
 
 ### <a href="https://atom-cms.s3-ap-northeast-1.amazonaws.com/Atom+Mt+Flow-Atom.pdf" target="_blank">一頁式報修表單</a>
 - 單頁表單提供顧客回報維修資訊。
@@ -108,6 +108,12 @@
 - 前端為AWS S3管理的靜態網頁表單。
 - 後端使用無伺服器AWS API Gateway & AWS Lambda。
 - 串接第三方服務kintone來儲存資料。
+
+### 智慧手錶後端系統
+- 使用TypeScript，Node.js開發新功能。
+- 設計開發API串接Firebase Cloud Messaging推播功能。
+- 建立AWS CodePipeline CI/CD，達成產品持續整合及部署。
+- 串接OAuth2.0 PKCE，提供Twitter的OAuth2.0驗證。
 
 ## 語言能力
 - 中文（母語）
