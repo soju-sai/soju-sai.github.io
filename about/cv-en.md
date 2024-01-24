@@ -98,7 +98,7 @@ Experienced software engineer passionate about developing clean, reusable, and h
 
 ## Projects
 
-### Simple Bank
+### <a href="https://github.com/soju-sai/simplebank" target="_blank">Simple Bank</a>
 - A simple banking system developed using Golang and PostgreSQL, allowing account creation, fund transfers.
 - The project utilizes Gin framework to develop RESTful APIs and implements Object-Relational Mapping(ORM) through the use of the sqlc command-line tool.
 - GitHub Actions are employed for Continuous Integration (CI), enabling automatic test execution.
