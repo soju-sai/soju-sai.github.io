@@ -6,4 +6,5 @@ I am an experienced software engineer passionate about developing clean, reusabl
 
 If you are interested in knowing more about my background, please take a look at my resume:
 - <a href="about/cv-en" target="_blank">English CV</a>
-- <a href="about/cv-zh" target="_blank">Mandarin CV</a>
+- <a href="about/cv-zh" target="_blank">中文履歷</a>
+- <a href="about/cv-ja" target="_blank">履歴書（日本語）</a>
