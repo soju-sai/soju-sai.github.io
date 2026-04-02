@@ -16,7 +16,7 @@
 
 ### PHP Laravel工程師 - 科爾迪股份有限公司，台北市
 *2024年6月 - 至今*
-- 支援日本母公司以 PHP Laravel 開發與維運大型金融交易系統後端。
+- 支援日本母公司以 PHP Laravel 開發與維運大型金融交易系統前後端。
 - 設計 Rolling Reserves 機制（含自動鎖定、排程解鎖與商戶免除規則），強化資金風險控管。
 - 系統優化與自動化任務，包括將關鍵用戶 Log 查詢由 22 秒優化至 2–3 秒、開發 Email Reminder 自動寄信與 Cashback Campaign 排程服務
 - 建置 Slack Bot 監控關鍵交易指標，問題排查（Postman 驗證、CloudWatch 日誌追蹤）。 
