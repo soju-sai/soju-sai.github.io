@@ -114,19 +114,15 @@
 
 ## 專案
 
+### [Flash Card](https://flash-card-app-zeta.vercel.app/)
+
+- AI Vibe Coding專案，一週產出智慧生成單字卡系統
+
 ### [Simple Bank](https://github.com/soju-sai/simplebank)
 
 - 使用Golang、PostgreSQL開發的簡易銀行功能，可以開戶、轉帳。
 - 採用Gin框架開發restful api、以sqlc指令工具實現ORM。
 - 使用GitHub actions來實現CI，自動執行測試。
-
-### [一頁式報修表單](https://atom-cms.s3-ap-northeast-1.amazonaws.com/Atom+Mt+Flow-Atom.pdf)
-
-- 單頁表單提供顧客回報維修資訊。
-- 使用Python、Vue.js開發。
-- 前端為AWS S3管理的靜態網頁表單。
-- 後端使用無伺服器AWS API Gateway & AWS Lambda。
-- 串接第三方服務kintone來儲存資料。
 
 ## 語言能力
 
