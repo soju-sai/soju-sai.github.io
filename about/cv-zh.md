@@ -102,21 +102,15 @@
 
 ## 技能
 
-- 後端語言:
-  - PHP (Laravel)
-  - Python
-  - Golang
-  - Node.js
-- 前端開發:
-  - JavaScript、HTML、CSS (SCSS)、Vue.js
-- 資料庫管理: 
-  - Redis、MySQL、PostgreSQL、MongoDB
-- 基礎設施: Docker, 
-- 版本控制: Git，GitHub
-- 雲端服務: AWS、GCP
-- 敏捷開發
-- 日本台灣之間的溝通協作能力
-- 商業等級的英文及日文能力
+| 類別 | 內容 |
+|------|------|
+| 後端語言 | PHP (Laravel)、Python、Golang、Node.js |
+| 前端開發 | JavaScript、HTML、CSS (SCSS)、Vue.js |
+| 資料庫管理 | Redis、MySQL、PostgreSQL、MongoDB |
+| 基礎設施 | Docker |
+| 版本控制 | Git、GitHub |
+| 雲端服務 | AWS、GCP |
+| 其他 | 敏捷開發；日本與台灣之間的溝通協作能力 |
 
 ## 專案
 
@@ -142,5 +136,6 @@
 
 ## 興趣
 
+- 用 google map 找美食
 - 單板滑雪
 - 吉他
