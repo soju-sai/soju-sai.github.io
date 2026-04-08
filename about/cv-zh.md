@@ -23,22 +23,22 @@
 - 建置 Slack Bot 監控關鍵交易指標，問題排查（Postman 驗證、AWS CloudWatch 日誌追蹤）。 
 - 導入 Google OAuth 2.0 與 reCAPTCHA v3 至註冊與登入流程，提升身份驗證與防止機器人攻擊。
 - 撰寫單元及功能測試覆蓋 Service、Controller 與例外處理，確保功能在高交易量情境下的穩定性與可維護性。
-- 使用工具：PHP Laravel、AWS (CloadWatch)、GCP (reCaptcha, OAuth2.0)
+- 使用工具：PHP Laravel、AWS (CloadWatch, S3)、GCP (reCaptcha, OAuth2.0)、Docker。
 
 ### 軟體工程師 - 愛可信台灣軟體研發，台北市
 
 *2022年8月 - 2023年8月*
 
-- 為「智慧手錶功能」開發RESTful API，撰寫測試碼，維護產品及狀況排除。
+- 為「智慧手錶」管理後台開發RESTful API，撰寫測試碼，維護產品及狀況排除。
 - 導入AWS CodePipeline，實施CI/CD自動化測試和持續整合，部署時間從每週 1 個工作天減少為 1 小時，減少維運成本同時提升系統穩定度。
-- 使用工具：Node.js、Ansible CD、AWS (CodePipeline, EC2, Load Balance)。
+- 使用工具：Node.js、Ansible CD、AWS (CodePipeline, EC2, Load Balance)、Docker。
 
 ### 專案經理 - 愛可信台灣軟體研發，台北市
 
 *2020年12月 - 2022年7月*
 
 - 需求彙整，建立專案計畫，成本控管，人力資源協調，開發規格確認，文件撰寫，風險管理。
-- 領導團隊（最多 15 人）執行公司重要大型專案，追蹤進度，排除成員障礙，處理專案危機，確保即時交付以維持公司主要收入。
+- 領導台灣團隊（最多 15 人）與日本團隊協作，執行公司重要大型專案，追蹤進度，排除成員障礙，處理專案危機，確保即時交付以維持公司主要收入。
 - 在公司內部的產品提案競賽中，擔任 4 人團隊的leader，以解決移工被仲介剝削問題的app，在六個隊伍中獲得冠軍。
 
 ### （兼職）工程師 - 財團法人臺灣海洋保育與漁業永續基金會，台北市
@@ -49,44 +49,40 @@
 - 主導開發 [MCS漁業查報資料庫](https://www.toff.org.tw/page.php?menu_id=71&p_id=99) 系統。確認需求，規劃功能，設計資料庫，決定開發框架，環境建置。並導入 Git 分支策略，Trello 看板進度管理。
 - 重構老舊 [魚類資料庫](https://fishdb.sinica.edu.tw/) 的資料表架構及資料，並導入 PHP Laravel seed/migration 及版本管理工具。
 - 提升系統資安，從 Log 確認海外攻擊，調整 Linux 伺服器的設定檔，限制海外對系統的攻擊。
-- 使用語言：PHP Laravel、JavaScript。
+- 使用工具：PHP Laravel、JavaScript。
 
-### 資深工程師 - ノベルワークス Novelworks，日本大阪
+### 工程師 - ノベルワークス Novelworks，日本大阪
 
 *2019年6月 - 2020年1月*
 
-- 客製化產品。
-- 管理專案、需求評估。 
-- 提供資安及軟體開發解決方案。
-- OAuth2.0認證研究導入，更新網站憑證，管理AWS服務等等。 
-- 主辦產品推廣講座。
-- 使用語言：Node.js。
+- 訪談日本企業需求，開發業務管理平台 kintone (37,000間公司使用) 的應用程式，部署到AWS Lambda。
+- 研究導入 OAuth2.0 認證。
+- 維護公司網站，包含更新 SSL 憑證，管理 AWS EC2 伺服器。
+- 主辦 kintone 推廣講座。
+- 使用工具：Node.js、AWS (EC2, Lambda)。
 
 ### 後端工程師 - クックビズ Cookbiz，日本大阪
 
 *2018年6月 - 2019年5月*
 
-- 開發產品新功能。
-- 參與Scrum開發流程及產品迭代。
-- 管理產品基礎設施，以Docker及Vagrant建立開發及測試環境。
-- 使用語言：PHP（自有框架、CakePHP、Yii）。
+- 開發及維護 [cookbiz](https://cookbiz.co.jp/) 餐飲專門人力銀行系統及後台 (150 萬/年 使用者、3 萬刊登職缺、1萬間以上公司合作)。
+- 撰寫 AWS CloudFormation 腳本語言優化基礎設施佈建，優化 Vagrant 開發環境腳本。
+- 使用工具：PHP（自有框架、CakePHP、Yii）、AWS (CloudFormation)、Vagrant。
 
 ### 工程師 - ラジカルオプティ Radical-Opti，日本大阪
 
 *2015年7月 - 2018年4月*
 
-- 開發產品（美髮預約系統）新功能。
-- 主導及開發電子商務網站。
-- 全端開發小規模網站。
-- Vagrant管理開發環境。 
-- 撰寫Shell-Script小工具。
-- 使用語言：PHP（CakePHP），JavaScript，HTML及CSS。
+- 為客戶 [Eyelash Salon Blanc](https://www.blanc-lash.com/) 開發美業預約系統。
+- 以 [ec-cube](https://www.ec-cube.net/) 開源電商框架開發 [b-league](https://www.bleague-shop.jp/) 籃球聯盟周邊商品電商網站。
+- 開發 [iDA](https://ida-mode.com/) 網站，包含「聯絡我們」的email發送功能，SEO 的調整。
+- 使用語言：PHP（CakePHP），JavaScript、Vargrant、Docker。
 
-### 專案工程師 - 繹宇數位科技，台北市
+### 專案工程師 - 繹宇數位科技，台北市 
 
 *2012年5月 - 2014年10月*
 
-- 客製化開發數位帳單管理寄送系統及行銷管理系統。
+- 為國內各大金融保險企業，客製化開發數位帳單管理寄送系統及行銷管理系統。
 - 撰寫Windows services, 排程, exe執行檔等。
 - 以HTML及ASP.NET開發帳單或行銷廣告版面。 
 - 評估開發時程，產品開發，客戶端系統上線服務，後續維護等等為主要工作內容。
@@ -107,20 +103,19 @@
 ## 技能
 
 - 後端語言:
-  - Golang
-  - Python
-  - Ruby (Ruby on Rails)
   - PHP (Laravel)
-  - JavaScript (Node.js, TypeScript)
-  - Shell Script
+  - Python
+  - Golang
+  - Node.js
 - 前端開發:
-  - HTML、CSS (SCSS)、Vue.js
+  - JavaScript、HTML、CSS (SCSS)、Vue.js
 - 資料庫管理: 
-  - PostgreSQL、MySQL、MongoDB
+  - Redis、MySQL、PostgreSQL、MongoDB
+- 基礎設施: Docker, 
 - 版本控制: Git，GitHub
-- 雲端服務: AWS
+- 雲端服務: AWS、GCP
 - 敏捷開發
-- 優秀的溝通能力
+- 日本台灣之間的溝通協作能力
 - 商業等級的英文及日文能力
 
 ## 專案
@@ -139,22 +134,13 @@
 - 後端使用無伺服器AWS API Gateway & AWS Lambda。
 - 串接第三方服務kintone來儲存資料。
 
-### 智慧手錶後端系統
-
-- 使用TypeScript，Node.js開發新功能。
-- 設計開發API串接Firebase Cloud Messaging推播功能。
-- 建立AWS CodePipeline CI/CD，達成產品持續整合及部署。
-- 串接OAuth2.0 PKCE，提供Twitter的OAuth2.0驗證。
-
 ## 語言能力
 
 - 中文（母語）
-- 英文（流利）
-- 日文（流利，日檢N1合格）
+- 英文（CEFR B1 程度）
+- 日文（日檢 N1 合格）
 
 ## 興趣
 
-- 參與技術交流及敏捷管理活動
-- 吉他
 - 單板滑雪
-
+- 吉他
