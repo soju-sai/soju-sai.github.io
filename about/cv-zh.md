@@ -6,7 +6,7 @@
 
 ## 簡介
 
-經驗豐富的軟體工程師，熱衷於開發簡潔、可重複利用、擴展性高的軟體解決方案。具有後端網站開發、雲端服務和敏捷開發的技能。有優秀的團隊領導及溝通能力。具備商業級的英語、日語能力。
+經驗豐富的軟體工程師，具備 PM 與工程師雙重視角，能有效橋接業務需求與技術實作；曾於日本直接與日文客戶及總公司溝通，具備跨文化協作能力。具有後端網站開發、雲端服務和專案管理的技能。
 
 ## 工作經驗
 
@@ -31,6 +31,7 @@
 
 - 為「智慧手錶」管理後台開發RESTful API，撰寫測試碼，維護產品及狀況排除。
 - 導入AWS CodePipeline，實施CI/CD自動化測試和持續整合，部署時間從每週 1 個工作天減少為 1 小時，減少維運成本同時提升系統穩定度。
+- 在前任工程師離職後快速銜接專案開發，並指導越南工程師維持交付節奏。
 - 使用工具：Node.js、Ansible CD、AWS (CodePipeline, EC2, Load Balance)、Docker。
 
 ### 專案經理 - 愛可信台灣軟體研發，台北市
@@ -39,7 +40,8 @@
 
 - 需求彙整，建立專案計畫，成本控管，人力資源協調，開發規格確認，文件撰寫，風險管理。
 - 領導台灣團隊（最多 15 人）與日本團隊協作，執行公司重要大型專案，追蹤進度，排除成員障礙，處理專案危機，確保即時交付以維持公司主要收入。
-- 在公司內部的產品提案競賽中，擔任 4 人團隊的leader，以解決移工被仲介剝削問題的app，在六個隊伍中獲得冠軍。
+- 在公司內部的產品提案競賽中，擔任 4 人團隊的leader，以解決移工被仲介剝削問題的app，在六個隊伍中獲得兩次冠軍。
+- 推動並完善公司內部分享會制度，促進跨組交流。
 
 ### （兼職）工程師 - 財團法人臺灣海洋保育與漁業永續基金會，台北市
 
@@ -75,7 +77,7 @@
 
 - 為客戶 [Eyelash Salon Blanc](https://www.blanc-lash.com/) 開發美業預約系統。
 - 以 [ec-cube](https://www.ec-cube.net/) 開源電商框架開發 [b-league](https://www.bleague-shop.jp/) 籃球聯盟周邊商品電商網站。
-- 開發 [iDA](https://ida-mode.com/) 網站，包含「聯絡我們」的email發送功能，SEO 的調整。
+- 開發 [iDA](https://ida-mode.com/) 服裝界求人網站，包含「聯絡我們」的email發送功能，SEO 的調整。
 - 使用語言：PHP（CakePHP），JavaScript、Vargrant、Docker。
 
 ### 專案工程師 - 繹宇數位科技，台北市 
@@ -107,16 +109,16 @@
 | 後端語言 | PHP (Laravel)、Python、Golang、Node.js |
 | 前端開發 | JavaScript、HTML、CSS (SCSS)、Vue.js |
 | 資料庫管理 | Redis、MySQL、PostgreSQL、MongoDB |
-| 基礎設施 | Docker |
+| 基礎設施 | Docker、Vargrant |
 | 版本控制 | Git、GitHub |
-| 雲端服務 | AWS、GCP |
-| 其他 | 敏捷開發；日本與台灣之間的溝通協作能力 |
+| 雲端服務 | AWS (EC2、S3、Lambda、API Gateway、CodePipeline、CloudWatch)、GCP |
+| 其他 | 專案管理、敏捷開發；日本與台灣之間的溝通協作能力 |
 
 ## 專案
 
 ### [Flash Card](https://flash-card-app-zeta.vercel.app/)
 
-- AI Vibe Coding專案，一週產出智慧生成單字卡系統
+- AI Vibe Coding專案，一週產出智慧生成單字卡系統。
 
 ### [Simple Bank](https://github.com/soju-sai/simplebank)
 
