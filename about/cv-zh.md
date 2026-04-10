@@ -118,7 +118,8 @@
 
 ### [Flash Card](https://flash-card-app-zeta.vercel.app/)
 
-- AI Vibe Coding專案，一週產出智慧生成單字卡系統。
+- AI 輔助開發的專案，一週讓單字卡系統正式上線運作。
+- 具有認證機制、收費訂閱、智慧生成單字卡功能。
 
 ### [Simple Bank](https://github.com/soju-sai/simplebank)
 
