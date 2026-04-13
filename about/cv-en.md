@@ -10,7 +10,7 @@ Experienced software engineer with dual perspectives as both PM and engineer, ca
 
 ## Work Experience
 
-### PHP Laravel Engineer - Coldi Inc., Taipei City
+### PHP Laravel Engineer - Quad Inc., Taipei City
 
 *June 2024 - Present*
 
@@ -43,7 +43,7 @@ Experienced software engineer with dual perspectives as both PM and engineer, ca
 - Served as leader of a 4-person team in an internal product pitch competition, proposing an app to address exploitation of migrant workers by brokers — won first place twice among six competing teams.
 - Promoted and improved the internal knowledge-sharing session system, facilitating cross-team communication.
 
-### (Part-time) Engineer - Taiwan Marine Conservation and Fisheries Sustainability Foundation, Taipei City
+### (Part-time) Engineer - Taiwan Ocean Conservation and Fisheries Sustainability Foundation, Taipei City
 
 *July 2020 - May 2023*
 
