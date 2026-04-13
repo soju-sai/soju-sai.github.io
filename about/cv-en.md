@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Experienced software engineer with dual perspectives as both PM and engineer, capable of effectively bridging business requirements and technical implementation. Previously worked in Japan, communicating directly with Japanese clients and headquarters, demonstrating strong cross-cultural collaboration skills. Skilled in backend web development, cloud services, and project management.
+Backend Software Engineer with 10+ years of experience building web systems across Taiwan and Japan. Specialized in PHP Laravel and Node.js, with hands-on expertise in financial transaction systems, cloud infrastructure (AWS), and CI/CD pipelines. Brings an additional edge as an engineer with direct Project Management experience — having led cross-functional teams of up to 15 people — enabling effective collaboration between business stakeholders and engineering teams. Trilingual in Mandarin Chinese, Japanese (JLPT N1), and English; with proven experience in cross-cultural, Japan-facing environments.
 
 ## Work Experience
 
@@ -131,7 +131,7 @@ Experienced software engineer with dual perspectives as both PM and engineer, ca
 ## Languages
 
 - Mandarin Chinese (Native)
-- English (CEFR B1)
+- English (Working proficiency)
 - Japanese (JLPT N1 Certified)
 
 ## Interests
