@@ -118,13 +118,15 @@
 
 ### [Flash Card](https://flash-card-app-zeta.vercel.app/)
 
-- AI Vibe Coding プロジェクトとして、1 週間でインテリジェント単語カード生成システムを開発。
+- Next.js をベースにした単語カードサービス。AI による単語カード生成（AI Deck）、Clerk 認証と課金・権限管理、Drizzle ORM と Neon（serverless PostgreSQL）を採用。
+- 主な機能：デッキ管理、単語カード管理、AI デッキ自動生成（Vercel AI SDK と OpenAI gpt-4o-mini）、権限・課金管理（Clerk Billing）、ユーザーごとのデータ分離（Clerk userId）、多言語対応（i18n）。
+- [ソースコード（GitHub）](https://github.com/soju-sai/flash-card-app)
 
-### [Simple Bank](https://github.com/soju-sai/simplebank)
+### Simple Bank
 
-- Golang と PostgreSQL を使用したシンプルな銀行機能を開発。口座開設・送金に対応。
-- Gin フレームワークで RESTful API を開発し、sqlc コマンドツールで ORM を実装。
-- GitHub Actions で CI を構築し、自動テストを実行。
+- Golang の Gin フレームワークで実装したシンプルな銀行機能バックエンド。RESTful API を提供し、sqlc で ORM を実装して PostgreSQL と連携。GitHub Actions による CI/CD で自動テストとデプロイを実行。
+- 主な機能：口座開設、送金。
+- [ソースコード（GitHub）](https://github.com/soju-sai/simplebank)
 
 ## 言語能力
 

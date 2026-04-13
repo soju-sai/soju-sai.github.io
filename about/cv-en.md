@@ -118,13 +118,15 @@ Experienced software engineer with dual perspectives as both PM and engineer, ca
 
 ### [Flash Card](https://flash-card-app-zeta.vercel.app/)
 
-- An AI Vibe Coding project — a smart flashcard generation system built in one week.
+- A Next.js flashcard service with AI-generated decks (AI Deck), Clerk authentication and paid access control, using Drizzle ORM with Neon (serverless PostgreSQL).
+- Key features: deck management, flashcard management, AI deck generation (via Vercel AI SDK and OpenAI gpt-4o-mini), access and billing control (Clerk Billing), per-user data isolation (Clerk userId), i18n.
+- [Source code on GitHub](https://github.com/soju-sai/flash-card-app)
 
-### [Simple Bank](https://github.com/soju-sai/simplebank)
+### Simple Bank
 
-- A simple banking system developed using Golang and PostgreSQL, supporting account creation and fund transfers.
-- Utilizes the Gin framework to develop RESTful APIs, and implements ORM via the sqlc command-line tool.
-- Uses GitHub Actions for CI, enabling automatic test execution.
+- A lightweight banking backend built with the Golang Gin framework, exposing RESTful APIs, using sqlc as the ORM with PostgreSQL, and GitHub Actions for CI/CD with automated testing and deployment.
+- Core features: account opening and transfers.
+- [Source code on GitHub](https://github.com/soju-sai/simplebank)
 
 ## Languages
 

@@ -118,14 +118,15 @@
 
 ### [Flash Card](https://flash-card-app-zeta.vercel.app/)
 
-- AI 輔助開發的專案，一週讓單字卡系統正式上線運作。
-- 具有認證機制、收費訂閱、智慧生成單字卡功能。
+- 一個以 Next.js 為架構的單字卡服務，具備 AI 生成單字卡（AI Deck）、Clerk 認證與付費授權管控，並採用 Drizzle ORM 搭配 Neon 伺服器（serverless PostgreSQL）。
+- 主要功能：卡組管理、單字卡管理、AI 卡組自動產生（透過 Vercel AI SDK 與 OpenAI gpt-4o-mini）、權限與付費控管（Clerk Billing）、用戶資料隔離（Clerk userId）、多國語系（i18n）
+- [原始碼 GitHub 連結](https://github.com/soju-sai/flash-card-app)
 
-### [Simple Bank](https://github.com/soju-sai/simplebank)
+### Simple Bank
 
-- 使用Golang、PostgreSQL開發的簡易銀行功能，可以開戶、轉帳。
-- 採用Gin框架開發restful api、以sqlc指令工具實現ORM。
-- 使用GitHub actions來實現CI，自動執行測試。
+- 一個使用 Golang Gin 框架的簡易銀行功能後端，提供 restful api，以 sqlc 實現 ORM 搭配 PostgreSQL 資料庫，使用GitHub actions來實現CI/CD，自動執行測試及部署。
+- 主要功能：開戶、轉帳。
+- [原始碼 GitHub 連結](https://github.com/soju-sai/simplebank)
 
 ## 語言能力
 
