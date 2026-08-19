@@ -14,12 +14,11 @@ Backend Software Engineer with 10+ years of experience building web systems acro
 
 *June 2024 - Present*
 
-- Supported the Japanese parent company in developing and maintaining a large-scale financial transaction system (frontend and backend) using PHP Laravel.
-- Designed a Rolling Reserves mechanism (including automatic locking, scheduled unlocking, and merchant exemption rules) to enhance platform fund security.
-- Implemented a scheduled transaction checking mechanism to prevent suspicious transactions.
-- Optimized system performance, reducing a critical user log query from 22 seconds to 2–3 seconds.
-- Developed automated tasks including "condition-driven email campaigns for user activation" and a "points reward scheduling service" (covering event configuration, reward distribution, and notifications), increasing DAU by 5%.
-- Developed a push notification feature for event rewards, combining Redis and Queue for asynchronous notifications.
+- Supported overseas headquarters in developing and maintaining a cross-border payment platform, covering PHP Laravel backend and React admin UI features.
+- Developed a merchant fund risk management mechanism covering fund holds, automated unlocking, and exception-rule handling, strengthening the platform's fund control.
+- Built scheduled transaction risk review and monitoring workflows to help identify abnormal transactions or those requiring manual review earlier.
+- Optimized a critical operational query, reducing user activity log lookup time from 22 seconds to 2–3 seconds.
+- Developed member rewards, notifications, and marketing automation services using Redis, queues, and scheduled jobs, increasing daily active users by about 5%.
 - Built a Slack Bot to monitor key transaction metrics and troubleshoot issues (Postman verification, AWS CloudWatch log tracking).
 - Integrated Google OAuth 2.0 and reCAPTCHA v3 into registration and login flows to enhance identity verification and prevent bot attacks.
 - Wrote unit and functional tests covering Service, Controller, and exception handling to ensure stability and maintainability under high transaction volume scenarios.
